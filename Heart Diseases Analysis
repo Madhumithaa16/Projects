@@ -1,0 +1,11 @@
+This project involves Analysis of heart disease using data visualization tools and libraries.
+Tool used is:Jupyter
+Language used is:Python
+Python has many built in data libraries such as numpy and pandas which help to perform numericals calculations on array effectively
+It has many data visualization tools such as matplolib and seaborn by which insights can be predicted accurately.
+Pyplot is also used in this project which allows to disply the visulization at interactive mode
+Insights obtained:
+Analysis of varies heart disease
+Prediction is based on Machine learning Algorithms such as Linear Regression
+The project is attached in the link below:
+https://www.kaggle.com/madhusrikanth/kernel2d3c7d5285
