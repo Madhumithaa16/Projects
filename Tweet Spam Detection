@@ -1,0 +1,12 @@
+This project involves Detection of Spam text in twitter using data visualization tools and libraries.
+It majorly focuses on Natural Language Processing
+Tool used is:Jupyter
+Language used is:Python
+Python has many built in data libraries such as numpy and pandas which help to perform numericals calculations on array effectively
+It has many data visualization tools such as matplolib and seaborn by which insights can be predicted accurately.
+Pyplot is also used in this project which allows to disply the visulization at interactive mode
+Insights obtained:
+Vectorization process(texts)
+Prediction is based on Machine learning Algorithms such as naive algorithm
+The project is attached in the link below:
+https://www.kaggle.com/madhusrikanth/kernel7045c61923
